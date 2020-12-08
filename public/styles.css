@@ -1,0 +1,8 @@
+main {
+  font-family: Verdana;
+  max-width: 900px;
+  margin: auto;
+  background-color: rgb(239, 241, 242);
+  text-align: center;
+  padding: 30px;
+}
